@@ -5,7 +5,7 @@ const MainChildTwo = () => {
     <div className="main-child-two">
       <div className="head">
         <button className="btn">close X</button>
-        <h3>informartion</h3>
+        <h3>information</h3>
       </div>
 
       {/* product info card   */}
