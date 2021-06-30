@@ -4,8 +4,8 @@ const MainChildTwo = () => {
   return (
     <div className="main-child-two">
       <div className="head">
-        <button className="btn">close x</button>
-        <h3>information</h3>
+        <button className="btn">close X</button>
+        <h3>informartion</h3>
       </div>
 
       {/* product info card   */}
