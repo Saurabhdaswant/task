@@ -1,4 +1,4 @@
-import ProcessChart from "./ProcessChart";
+import Chart from "./Chart";
 
 const MainChildOne = () => {
   return (
@@ -15,7 +15,7 @@ const MainChildOne = () => {
           <p>completed</p>
         </div>
       </div>
-      <ProcessChart />
+      <Chart />
     </div>
   );
 };

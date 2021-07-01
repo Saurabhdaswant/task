@@ -1,5 +1,5 @@
 import MainChildOne from "./Main-child-one";
-import MainChildTwo from "./Main-child-two";
+import MainChildTwo from "./Sidebar";
 const Main = () => {
   return (
     <div className="main">
