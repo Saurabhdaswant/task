@@ -1,10 +1,10 @@
 import Main from "./Main";
-import UserSection from "./UserSection";
+import Profile from "./Profile";
 
 const Container = () => {
   return (
     <div className="container">
-      <UserSection />
+      <Profile />
       <Main />
     </div>
   );

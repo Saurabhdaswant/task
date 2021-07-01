@@ -1,10 +1,9 @@
-import tshirt from "./img/tshirt.png";
-
 const ProcessDetails = () => {
   return (
     <div className="tableRow">
       <div className="tableData Product">
-        <img src={tshirt} alt="" />
+        <img src="img/tshirt.png" alt="" />
+
         <div className="tableData">
           <p>orginal fav</p>
           <p className="light">Dark blue</p>

@@ -1,5 +1,3 @@
-import tshirt from "./img/tshirt.png";
-
 const MainChildTwo = () => {
   return (
     <div className="main-child-two">
@@ -11,7 +9,7 @@ const MainChildTwo = () => {
       {/* product info card   */}
       <div className="information">
         <div className="productImg">
-          <img src={tshirt} alt="" />
+          <img src="img/tshirt.png" alt="" />
         </div>
         <div className="info-product">
           <ul>
