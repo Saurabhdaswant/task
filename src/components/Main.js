@@ -1,4 +1,4 @@
-import MainChildOne from "./Main-child-one";
+import MainChildOne from "./Section";
 import MainChildTwo from "./Sidebar";
 const Main = () => {
   return (
