@@ -7,7 +7,7 @@ const MainChildOne = () => {
         <div className="input">
           <input type="text" />
           <div className="searchsvg">
-            <img src="img/search.svg" alt="" />{" "}
+            <img src="img/search.svg" alt="" />
           </div>
         </div>
         <div className="main__child-one__header-status">
